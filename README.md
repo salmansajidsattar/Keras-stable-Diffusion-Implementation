@@ -5,4 +5,4 @@ Text to Image conversion using Keras Stable Diffusion Implementation
 **Men sitting hopeless**  
 
 ## Output
-![Alt text](https://github.com/salmansajidsattar/Keras-stable-Diffusion-Implementation "Optional title")
+![output](https://user-images.githubusercontent.com/38104294/190928797-58230060-2ba7-46b1-9476-a1631f9dda96.PNG)
